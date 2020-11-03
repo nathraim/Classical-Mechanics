@@ -5,10 +5,10 @@
 ## Try it with Binder !
 
 #### Index of the notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathraim/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Findex.ipynb)
 
 - Exercise: Impact distance of a projectile
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathraim/OSSCAR-Classical-Mechanics/master?filepath=notebooks%2Fprojectile-notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathraim/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Fprojectile-notebook.ipynb)
 
 ## Acknowledgements
 
