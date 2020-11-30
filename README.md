@@ -1,6 +1,7 @@
 # Mécanique Newtonienne
 
-## Cliquez sur le lien Binder pour essayer le notebook (1 seul pour l'instant, mais qui sait, un jour, peut-être, d'autres viendront...).
+## Cliquez sur le lien Binder pour essayer le notebook.
+(1 seul pour l'instant, mais qui sait, un jour, peut-être, d'autres viendront...)
 
 - Exercice: Trajectoire d'un projectile lancé en l'air
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathraim/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Fprojectile-notebook.ipynb)
