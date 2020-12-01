@@ -6,6 +6,8 @@
 - Exercice: Trajectoire d'un projectile lancé en l'air
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathraim/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Fprojectile-notebook.ipynb)
 
+![Alt text](images/explanation.png?raw=true "Title")
+
 ## Crédits
 
 La première version de ce notebook a été créée par Giovanni Pizzi, de l'EPFL (Ecole Polytechnique Fédérale de Lausanne), dans le cadre du projet [OSSCAR](http://www.osscar.org).
